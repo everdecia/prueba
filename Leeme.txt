@@ -1,1 +1,6 @@
-esta es una prueba a ver si se publica el repositorio
+esta es una prueba a ver si se publica el repositorio.
+
+El problema es el proxy, pero hay que resolverlo porque es la configuración de las empresasa.
+
+A buscar la solución.
+
